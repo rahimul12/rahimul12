@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimul12&label=Profile%20views&color=0e75b6&style=flat" alt="rahimul12" /> </p>
 
-- 🌱 I’m currently learning **Learning Framework,Problem SOlving,Data Structure And Algorithm etc.**
+- 🌱 I’m currently learning **Framework,Problem SOlving,Data Structure And Algorithm etc.**
 
 - 💬 Ask me about **Frontend**
 
