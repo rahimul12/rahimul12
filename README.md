@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/rahimul haque afrad](https://www.linkedin.com/in/rahimul-haque-afrad-79121121b/overlay/about-this-profile/?trk=opento_sprofile_topcard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBGHcBIqNT%2ByEjwle4tFjfA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimul haque afrad" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/rahimul haque afrad](https://www.linkedin.com/in/rahimul-haque-afrad-79121121b/overlay/about-this-profile/?trk=opento_sprofile_topcard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBGHcBIqNT%2ByEjwle4tFjfA%3D%3D)](https://www.linkedin.com/in/rahimul-haque-afrad-79121121b/?trk=opento_sprofile_topcard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BynEp%2FDkJSeu21Ym9gwMrKA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimul haque afrad" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rahimnsu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahimnsu/" height="30" width="40" /></a>
 <a href="https://instagram.com/ami_afrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ami_afrad" height="30" width="40" /></a>
 </p>
